@@ -63,5 +63,5 @@ This dataset is ideal for:
      - Logistic Regression
      - Decision Trees
      - Random Forest
-     - Gradient Boosting (e.g., XGBoost, LightGBM)
+     - Gradient Boosting (e.g., XGBoost)
      - Neural Networks (Deep Learning).
